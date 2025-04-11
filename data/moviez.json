@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Black Panther",
+    "ReleaseYear": 2020,
+    "Duration": 90
+  },
+  {
+    "id": 2,
+    "name": "Creed",
+    "ReleaseYear": 2018,
+    "Duration": 100
+  },
+  {
+    "id": 3,
+    "name": "Extraction",
+    "ReleaseYear": 2019,
+    "Duration": 120
+  },
+  {
+    "id": 4,
+    "name": "Extraction II",
+    "ReleaseYear": 2023,
+    "Duration": 100
+  }
+]
